@@ -2,6 +2,9 @@
 
 ### ¿Responderás a la llamada?
 
+
+## ¿Qué es un juego de rol?
+
 ***-"Hmmm... quizá... ¿de qué va esto?"***
 
 Tradicionalmente, los juegos de rol han sido enriquecedoras experiencias llevadas a cabo por un pequeño grupo cerrado de jugadores que se reunen de forma habitual. Uno de los jugadores actúa como "máster", describiendo el mundo y poniendo desafíos frente al resto de jugadores, que en el papel de héroes (o villanos), lso acometen con arrojo, coraje y... como buenamente pueden.
