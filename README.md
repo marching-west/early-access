@@ -13,23 +13,29 @@ Tradicionalmente, los juegos de rol han sido enriquecedoras experiencias llevada
 
 ### La idea resumida sería una inusual mezcla entre RPG tradicional y MMO-RPG
 
+## Sistema de juego
+
 ***-"¿...que es eso de cerveza gratis?"***
 
 ¿Que qué *sistema de juego* vamos a utilizar, dices? ¡Excelente pregunta! De forma inicial nos hemos decantado por **[Dragones & Mazmorras 4ª edición](https://www.rantorpotha.com/Content/images/bd/00221-lg.jpg?1.0.2)**. Es un sólido sistema muy basado en el combate táctico en tablero (al estilo Final Fantasy Tactics, X-Com, Fire Emblem o Banner Saga, si conoceis algunos de ellos), con un excelente equilibrio de clases.
 
 ¡No os preocupeis, **no necesitais saber jugar previamente**! ¡Os daremos todo lo necesario para que podais sumergiros en intensas batallas y aprender sobre la marcha!
 
+## ¿Cuándo y dónde?
 
 ***-"...si, si, pero la cerveza…"***
 
 Efectivamente, a partir del **Domingo 1 de Abril** podréis empezar a participar en nuestro **Early Access**, lo cual os dará la oportunidad de probarlo antes que nadie y dar vuestra opinión al respecto para crear la mejor experiencia posible. A cambio, tendreis acceso a ventajas exclusivas, una vez que el proyecto comience oficialmente.
 
+El proyecto se desarrollará principalmente **Martes y Domingos en [Gold Saucer Bar](https://goo.gl/maps/m1QMBA8UJPD2)**, pero una vez finalice el Early Access, podréis participar en mayor o menor grado durante toda la semana.
 
 ***-"Ok, vamos a hacer una cosa, te voy a dejar terminar y espero leer la palabra cerveza en algún momento"***
 
 ¡Genial! Pues ya que sacas el tema, vamos a hablar de los capítulos (o "etapas") del proyecto:
 
-# FASES
+# FASES (provisional)
+
+*(Toda información aquí proporcionada está sujeta a cambios)*
 
 ## Capítulo I: La Era del Aprendizaje
 
@@ -60,3 +66,7 @@ En cada aventura, los jugadores podrán explorar un mapa (un mapa por casillas [
 Ah, y se incluirá también escenarios PvP donde podréis enfrentaros a otros jugadores. Eso será *divertido*.
 
 *(Mas detalles proximamente)*
+
+## Capítulo 3: La Era del Conflicto
+
+(Buff, para esto queda tanto...)
