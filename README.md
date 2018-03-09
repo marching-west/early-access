@@ -1,3 +1,5 @@
+**La Iniciativa**, en colaboración con **[Gold Saucer Bar](https://goo.gl/maps/m1QMBA8UJPD2)** presenta en exclusiva **Marching West**, una experiencia RPG *(bastante)* única...
+
 > “Tenebrosas fuerzas amenazan un mundo al borde del colapso. En medio de un páramo desolado, se alza un último bastión de esperanza: el Gold Saucer, una ruinosa fortaleza olvidada donde ahora se arremolinan misteriosas fuerzas arcanas, lanzando un grito de desesperado a través de todo el multiverso, en búsca de héroes que acudan en su auxilio” 
 
 ### ¿Responderás a la llamada?
