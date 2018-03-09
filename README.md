@@ -1,6 +1,6 @@
 **La Iniciativa**, en colaboración con **[Gold Saucer Bar](https://goo.gl/maps/m1QMBA8UJPD2)** presenta en exclusiva **Marching West**, una experiencia RPG *(bastante)* única...
 
-> “Tenebrosas fuerzas amenazan un mundo al borde del colapso. En medio de un páramo desolado, se alza un último bastión de esperanza: el Gold Saucer, una ruinosa fortaleza olvidada donde ahora se arremolinan misteriosas fuerzas arcanas, lanzando un grito de desesperado a través de todo el multiverso, en búsca de héroes que acudan en su auxilio” 
+> “Tenebrosas fuerzas amenazan un mundo al borde del colapso. En medio de un páramo desolado, se alza un último bastión de esperanza: el Gold Saucer, una ruinosa fortaleza olvidada donde ahora se arremolinan misteriosas fuerzas arcanas, lanzando un grito de desesperación a través de todo el multiverso, en búsca de héroes que acudan en su auxilio” 
 
 ### ¿Responderás a la llamada?
 
@@ -9,7 +9,7 @@
 
 ***-"Hmmm... quizá... ¿de qué va esto?"***
 
-Tradicionalmente, los juegos de rol han sido enriquecedoras experiencias llevadas a cabo por un pequeño grupo cerrado de jugadores que se reunen de forma habitual. Uno de los jugadores actúa como "máster", describiendo el mundo y poniendo desafíos frente al resto de jugadores, que en el papel de héroes (o villanos), lso acometen con arrojo, coraje y... como buenamente pueden.
+Tradicionalmente, los juegos de rol han sido enriquecedoras experiencias llevadas a cabo por un pequeño grupo cerrado de jugadores que se reunen de forma habitual. Uno de los jugadores actúa como "máster", describiendo el mundo y poniendo desafíos frente al resto de jugadores, que en el papel de héroes (o villanos), los acometen con arrojo, coraje y... como buenamente pueden.
 
 ¡Imaginaos poder compartir la enriquecedora experiencia del rol con DECENAS de camaradas en la comodidad de vuestro bar favorito! ¡Imaginad no tener que esperar a que todos vuestros amigos *puedan quedar*! Todas vuestras aventuras se desarrollarían en el mismo mundo, y las consecuencias de vuestras decisiones afectarían al resto de jugadores en futuras sesiones. Y ademas tendríais oportunidades de ganar estupendos premios, ¡y hasta cerveza gratis!
 
@@ -47,13 +47,13 @@ En este primera fase, el objetivo es aprender el juego y afinar vuestras habilid
 
 Cada Martes y Domingo encontraréis en el local a nuestros Masters, que vendrán con una buena remesa de desafíos en los que participar.
 
-Harán falta dos jugadores para participar, ¡asi que tendréis que traer algún amigo o buscarlo de entre vuestros camaradas del bar! icipantes podrán escoger entre una limitada plantilla de personajes (como si de League of Legends u Overwatch se tratara) y enfrentarse a pequeños y rápidos desafíos contrarreloj.
+Harán falta dos jugadores para participar, ¡asi que tendréis que traer algún amigo o buscarlo de entre vuestros camaradas del bar! Los participantes podrán escoger entre una limitada plantilla de personajes (como si de League of Legends u Overwatch se tratara) y enfrentarse a pequeños y rápidos desafíos contrarreloj.
 
 Vuestro objetivo será conseguir la mayor puntuación posible (normalmente derrotando a mas enemigos o haciéndolo en menos tiempo), y en función de vuestra puntuación recibiréis una recompensa, que puede ser "recompensa de juego" (como objetos que añadir a vuestros personajes para hacerlos mas poderosos) o "recompensa de bar" (que puede ser un ticket descuento, ¡o quizá incluso una bebida gratis!) *(¿Veis? ¿Veis como al final llegariamos a ello?)*
 
 También se creará un ranking de puntuaciones donde podréis compararlas con otros camaradas y acceder a recompensas exclusivas.
 
-Cuanto mas juguéis con un héroe determinado, mas afinidad con él tendréis; mejor equipo... ¡y al final del capítulo incluso podréis llegar a reclamarlo en exclusiva, para que solo vosotros podáis utilizarlo!
+Cuanto mas juguéis con un héroe determinado, mas afinidad con él tendréis; mejor equipo... ¡y al final del capítulo incluso podréis llegar a reclamarlo en exclusiva, para que sólo vosotros podáis utilizarlo!
 
 *(Mas detalles proximamente)*
 
@@ -61,11 +61,11 @@ Cuanto mas juguéis con un héroe determinado, mas afinidad con él tendréis; m
 
 > Un mundo desconocido y hostil se alzaba ante ellos. Cada paso sería una dura prueba. Tendrían que aprender a trabajar juntos... o estallaría el conflicto.
 
-Los jugadores tendrán la opción de crear su propio personaje, subirlo de nivel y decidir su destino.
+Los jugadores tendrán la opción de utlizar su propio personaje, subirlo de nivel, personalizarlo y decidir su destino.
 
 En cada aventura, los jugadores podrán explorar un mapa (un mapa por casillas [de este estilo](http://i.imgur.com/g5keWKA.png)) y así ir descubriendo (¡y decidiendo!) la forma del mundo a su alrededor, asi como descifrando sus misterios.
 
-Ah, y se incluirá también escenarios PvP donde podréis enfrentaros a otros jugadores. Eso será *divertido*.
+Ah, y se incluirán también escenarios PvP donde podréis enfrentaros a otros jugadores. Eso será *divertido*.
 
 *(Mas detalles proximamente)*
 
