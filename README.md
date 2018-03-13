@@ -1,6 +1,6 @@
-**La Iniciativa**, en colaboración con **[Gold Saucer Bar](https://goo.gl/maps/m1QMBA8UJPD2)** presenta en exclusiva **Marching West**, una experiencia RPG *(bastante)* única...
+**[La Iniciativa](https://www.2innovative.net/blog/wp-content/uploads/2015/11/Patent-Pending.png)**, en colaboración con **[Gold Saucer Bar](https://goo.gl/maps/m1QMBA8UJPD2)** presenta en exclusiva **Marching West**, una experiencia RPG *(bastante)* única...
 
-
+![Marching West](https://github.com/marching-west/early-access/raw/master/imagenes/logo.png)
 
 > “Tenebrosas fuerzas amenazan un mundo al borde del colapso. En medio de un páramo desolado, se alza un último bastión de esperanza: el Gold Saucer, una ruinosa fortaleza olvidada donde ahora se arremolinan misteriosas fuerzas arcanas, lanzando un grito de desesperación a través de todo el multiverso, en búsca de héroes que acudan en su auxilio” 
 
@@ -78,3 +78,5 @@ Ah, y se incluirán también escenarios PvP donde podréis enfrentaros a otros j
 ## Capítulo 3: La Era del Conflicto
 
 (Buff, para esto queda tanto...)
+
+![Marching West](https://github.com/marching-west/early-access/raw/master/imagenes/Footer.png)
