@@ -1,6 +1,6 @@
-**La Iniciativa**, en colaboración con **[Gold Saucer Bar](https://goo.gl/maps/m1QMBA8UJPD2)** presenta en exclusiva **Marching West**, una experiencia RPG *(bastante)* única...
+**[La Iniciativa](https://www.2innovative.net/blog/wp-content/uploads/2015/11/Patent-Pending.png)**, en colaboración con **[Gold Saucer Bar](https://goo.gl/maps/m1QMBA8UJPD2)** presenta en exclusiva **Marching West**, una experiencia RPG *(bastante)* única...
 
-
+![Marching West](https://github.com/marching-west/early-access/raw/master/imagenes/logo.png)
 
 > “Tenebrosas fuerzas amenazan un mundo al borde del colapso. En medio de un páramo desolado, se alza un último bastión de esperanza: el Gold Saucer, una ruinosa fortaleza olvidada donde ahora se arremolinan misteriosas fuerzas arcanas, lanzando un grito de desesperación a través de todo el multiverso, en búsca de héroes que acudan en su auxilio” 
 
@@ -26,6 +26,10 @@ _(( DISCLAIMER: Imagen prestada de [Dungeonfantastic](http://dungeonfantastic.bl
 ¿Que qué *sistema de juego* vamos a utilizar, dices? ¡Excelente pregunta! De forma inicial nos hemos decantado por **[Dragones & Mazmorras 4ª edición](https://www.rantorpotha.com/Content/images/bd/00221-lg.jpg?1.0.2)**. Es un sólido sistema muy basado en el combate táctico en tablero (al estilo Final Fantasy Tactics, X-Com, Fire Emblem o Banner Saga, si conoceis algunos de ellos), con un excelente equilibrio de clases. Si, jugaremos D&D con miniaturas sobre tablero. (¿Alguien conoce _Descent_? Del estilo). Y con cartas. Ya vereis...
 
 ¡No os preocupeis, **no necesitais saber jugar previamente**! ¡Os daremos todo lo necesario para que podais sumergiros en intensas batallas y aprender sobre la marcha!
+
+![Gold Saucer Bar](https://m1.paperblog.com/i/416/4163417/colaboramos-gold-saucer-bar-L-drgl4f.jpeg)
+
+_(Foto tomada de [este artículo](https://es.paperblog.com/colaboramos-con-gold-saucer-bar-4163417/))_
 
 ## ¿Cuándo y dónde?
 
@@ -78,3 +82,5 @@ Ah, y se incluirán también escenarios PvP donde podréis enfrentaros a otros j
 ## Capítulo 3: La Era del Conflicto
 
 (Buff, para esto queda tanto...)
+
+![Marching West](https://github.com/marching-west/early-access/raw/master/imagenes/Footer.png)
