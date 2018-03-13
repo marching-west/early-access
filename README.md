@@ -27,6 +27,10 @@ _(( DISCLAIMER: Imagen prestada de [Dungeonfantastic](http://dungeonfantastic.bl
 
 ¡No os preocupeis, **no necesitais saber jugar previamente**! ¡Os daremos todo lo necesario para que podais sumergiros en intensas batallas y aprender sobre la marcha!
 
+![Gold Saucer Bar](https://m1.paperblog.com/i/416/4163417/colaboramos-gold-saucer-bar-L-drgl4f.jpeg)
+
+_(Foto tomada de [este artículo](https://es.paperblog.com/colaboramos-con-gold-saucer-bar-4163417/))_
+
 ## ¿Cuándo y dónde?
 
 ***-"...si, si, pero la cerveza…"***
