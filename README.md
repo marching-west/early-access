@@ -1,5 +1,7 @@
 **La Iniciativa**, en colaboración con **[Gold Saucer Bar](https://goo.gl/maps/m1QMBA8UJPD2)** presenta en exclusiva **Marching West**, una experiencia RPG *(bastante)* única...
 
+
+
 > “Tenebrosas fuerzas amenazan un mundo al borde del colapso. En medio de un páramo desolado, se alza un último bastión de esperanza: el Gold Saucer, una ruinosa fortaleza olvidada donde ahora se arremolinan misteriosas fuerzas arcanas, lanzando un grito de desesperación a través de todo el multiverso, en búsca de héroes que acudan en su auxilio” 
 
 ### ¿Responderás a la llamada?
@@ -15,11 +17,13 @@ Tradicionalmente, los juegos de rol han sido enriquecedoras experiencias llevada
 
 ### La idea resumida sería una inusual mezcla entre RPG tradicional y MMO-RPG
 
+![IFiguritas de tablero](http://1.bp.blogspot.com/-GPu2Ci1pq9Y/VKY6Mgr6_xI/AAAAAAAAGHw/KzZn1V4sYbg/s1600/Dungeon-Crawl-26.JPG)
+_(( DISCLAIMER: Imagen prestada de [Dungeonfantastic](http://dungeonfantastic.blogspot.com.es/2015/01/amazing-d-skirmish-minis-battle.html). Nuestras figuritas pueden empezar siendo mas.. menos... hmm.. en fin, continuemos ))_
 ## Sistema de juego
 
 ***-"¿...que es eso de cerveza gratis?"***
 
-¿Que qué *sistema de juego* vamos a utilizar, dices? ¡Excelente pregunta! De forma inicial nos hemos decantado por **[Dragones & Mazmorras 4ª edición](https://www.rantorpotha.com/Content/images/bd/00221-lg.jpg?1.0.2)**. Es un sólido sistema muy basado en el combate táctico en tablero (al estilo Final Fantasy Tactics, X-Com, Fire Emblem o Banner Saga, si conoceis algunos de ellos), con un excelente equilibrio de clases.
+¿Que qué *sistema de juego* vamos a utilizar, dices? ¡Excelente pregunta! De forma inicial nos hemos decantado por **[Dragones & Mazmorras 4ª edición](https://www.rantorpotha.com/Content/images/bd/00221-lg.jpg?1.0.2)**. Es un sólido sistema muy basado en el combate táctico en tablero (al estilo Final Fantasy Tactics, X-Com, Fire Emblem o Banner Saga, si conoceis algunos de ellos), con un excelente equilibrio de clases. Si, jugaremos D&D con miniaturas sobre tablero. (¿Alguien conoce _Descent_? Del estilo). Y con cartas. Ya vereis...
 
 ¡No os preocupeis, **no necesitais saber jugar previamente**! ¡Os daremos todo lo necesario para que podais sumergiros en intensas batallas y aprender sobre la marcha!
 
@@ -57,13 +61,15 @@ Cuanto mas juguéis con un héroe determinado, mas afinidad con él tendréis; m
 
 *(Mas detalles proximamente)*
 
+![Mapa hexagonal](http://i.imgur.com/g5keWKA.png)
+
 ## Capítulo 2: La Era del Descubrimiento
 
 > Un mundo desconocido y hostil se alzaba ante ellos. Cada paso sería una dura prueba. Tendrían que aprender a trabajar juntos... o estallaría el conflicto.
 
-Los jugadores tendrán la opción de utlizar su propio personaje, subirlo de nivel, personalizarlo y decidir su destino.
+Los jugadores tendrán la opción de crear su propio personaje, subirlo de nivel, personalizarlo y decidir su destino.
 
-En cada aventura, los jugadores podrán explorar un mapa (un mapa por casillas [de este estilo](http://i.imgur.com/g5keWKA.png)) y así ir descubriendo (¡y decidiendo!) la forma del mundo a su alrededor, asi como descifrando sus misterios.
+En cada aventura, los jugadores podrán explorar un mapa (no necesariamente el de arriba, pero uno por el estilo) y así ir descubriendo (¡y decidiendo!) la forma del mundo a su alrededor, asi como descifrando sus misterios.
 
 Ah, y se incluirán también escenarios PvP donde podréis enfrentaros a otros jugadores. Eso será *divertido*.
 
