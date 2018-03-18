@@ -1,0 +1,3 @@
+# Dwall, guerrera enana
+
+La pétrea Dwall mantiene a raya a los rivales y concede amparo a sus compañeros malheridos. Pero no la tomes a la ligera, su poderoso martillo del risco hará temblar (literalmente) a cualquier rival...
