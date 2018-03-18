@@ -1,3 +1,59 @@
+---
+layout: default
+---
+<a href="/"><< Volver</a>
+
+
+<div style="display: flex; align-items: center; justify-content: space-evenly; margin-bottom: 10px">
+  <a href="dwall.html" style="width: 15%">
+    <img src="dwall-avatar.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
+  </a>
+  <a style="width: 15%; cursor: not-allowed;">
+    <img src="avatar-unknown.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
+  </a>
+  <a style="width: 15%; cursor: not-allowed;">
+    <img src="avatar-unknown.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
+  </a>
+  <a style="width: 15%; cursor: not-allowed;">
+    <img src="avatar-unknown.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
+  </a>
+  <a style="width: 15%; cursor: not-allowed;">
+    <img src="avatar-unknown.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
+  </a>
+</div>
+
+* * *
+
+<img src="dwall-avatar.png">
+
 # Dwall, guerrera enana
 
 La pétrea Dwall mantiene a raya a los rivales y concede amparo a sus compañeros malheridos. Pero no la tomes a la ligera, su poderoso martillo del risco hará temblar (literalmente) a cualquier rival...
+
+## Poderes
+
+### A voluntad
+<dl>
+<dt>Estampida Amenazante</dt>
+<dd>Dwall se arroja en medio de sus enemigos, atrayendo sus ataques contra ella</dd>
+<dt>Marea de Hierro</dt>
+<dd>Tras cada golpe, Dwall interpone su escudo y lo utiliza para empujar a su enemigo hacia atrás</dd>
+</dl>
+
+### De encuentro
+<dl>
+<dt>Campanazo</dt>
+<dd>Dwall propina un poderoso martillazo contra su enemigo, aturdiendo sus sentidos</dd>
+<dt>Desvío con Escudo</dt>
+<dd>Dwall desvía un ataque con el filo de su escudo y aprovecha la apertura para propinar un poderoso contraataque</dd>
+</dl>
+
+### Diarios
+<dl>
+<dt>Prensa de Acero</dt>
+<dd>Dwall ataca a su enemigo y utiliza su escudo para inmovilizarlo en el sitio</dd>
+<dt>Postura Defensiva</dt>
+<dd>Dwall adquiere una postura cautelosa que le permite posicionarse ante los ataques de sus oponentes</dd>
+</dl>
+
+* * *
