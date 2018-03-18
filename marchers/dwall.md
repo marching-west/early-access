@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<a href="/"><< Volver</a>
+<a href="/early-access/"><< Volver</a>
 
 
 <div style="display: flex; align-items: center; justify-content: space-evenly; margin-bottom: 10px">

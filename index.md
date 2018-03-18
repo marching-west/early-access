@@ -1,7 +1,7 @@
 ---
 ---
 <div style="text-align: right;">
-  <a href="/marchers/dwall.html">Ver los héroes >></a>
+  <a href="/early-access/marchers/dwall.html">Ver los héroes >></a>
 </div>
 
 **[La Iniciativa](https://www.2innovative.net/blog/wp-content/uploads/2015/11/Patent-Pending.png)**, en colaboración con **[Gold Saucer Bar](https://goo.gl/maps/m1QMBA8UJPD2)** presenta en exclusiva **Marching West**, una experiencia RPG *(bastante)* única...
