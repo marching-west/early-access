@@ -8,16 +8,16 @@ layout: default
   <a href="dwall.html" style="width: 15%">
     <img src="dwall-avatar.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
   </a>
-  <a href="notashe.html" style="width: 15%; >
+  <a href="notashe.html" style="width: 15%;" >
     <img src="avatar-notashe.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
   </a>
-  <a href="elenwed.html" style="width: 15%; >
+  <a href="elenwed.html" style="width: 15%; ">
     <img src="avatar-elenwed.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
   </a>
-  <a href="bob.html" style="width: 15%; >
+  <a href="bob.html" style="width: 15%; ">
     <img src="avatar-bob.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
   </a>
-  <a href="presto.html" style="width: 15%; >
+  <a href="presto.html" style="width: 15%; ">
     <img src="avatar-presto.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
   </a>
 </div>
