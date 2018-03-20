@@ -23,7 +23,7 @@ layout: default
 
 * * *
 
-<img src="dwall-avatar.png">
+<img src="avatar-elenwed.png">
 
 # Elenwed, explorador elfo
 

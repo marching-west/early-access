@@ -24,7 +24,7 @@ layout: default
 
 * * *
 
-<img src="presto-avatar.png">
+<img src="avatar-presto.png">
 
 # Presto, mago humano
 
