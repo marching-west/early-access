@@ -8,19 +8,20 @@ layout: default
   <a href="dwall.html" style="width: 15%">
     <img src="dwall-avatar.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
   </a>
-  <a style="width: 15%; cursor: not-allowed;">
-    <img src="avatar-unknown.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
+  <a href="notashe.html" style="width: 15%; >
+    <img src="avatar-notashe.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
   </a>
-  <a style="width: 15%; cursor: not-allowed;">
-    <img src="avatar-unknown.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
+  <a href="elenwed.html" style="width: 15%; >
+    <img src="avatar-elenwed.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
   </a>
-  <a style="width: 15%; cursor: not-allowed;">
-    <img src="avatar-unknown.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
+  <a href="bob.html" style="width: 15%; >
+    <img src="avatar-bob.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
   </a>
-  <a style="width: 15%; cursor: not-allowed;">
-    <img src="avatar-unknown.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
+  <a href="presto.html" style="width: 15%; >
+    <img src="avatar-presto.png" style="width:100%; border: 0; box-shadow: none; -webkit-box-shadow: none;">
   </a>
 </div>
+
 
 * * *
 
@@ -29,6 +30,22 @@ layout: default
 # Dwall, guerrera enana
 
 La pétrea Dwall mantiene a raya a los rivales y concede amparo a sus compañeros malheridos. Pero no la tomes a la ligera, su poderoso martillo del risco hará temblar (literalmente) a cualquier rival...
+
+<dl>
+<dt>Rol</dt>
+<dd>Defensora</dd>
+<dt>Complejidad</dt>
+<dd>Baja</dd>
+</dl>
+
+
+## Clase
+
+### Guerrero
+
+> "¡Antes tendrás que enfrentarte conmigo, dragón!" 
+
+Eres muy dura y tienes aptitudes excepcionales para contener a los enemigos en el cuerpo a cuerpo.
 
 ## Poderes
 
