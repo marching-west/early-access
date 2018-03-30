@@ -59,11 +59,11 @@ Eres muy dura y tienes aptitudes excepcionales para contener a los enemigos en e
 ### De encuentro
 <dl>
 <dt>Campanazo</dt>
-<dd>Dwall propina un poderoso martillazo contra su enemigo, aturdiendo sus sentidos</dd>
+<dd>Dwall propina un poderoso martillazo, aturdiendo los sentidos de su enemigo</dd>
 <dt>Desvío con Escudo</dt>
 <dd>Dwall desvía un ataque con el filo de su escudo y aprovecha la apertura para propinar un poderoso contraataque</dd>
-<dt>Entereza enana *(racial enana)*</dt>
-<dd>Extraes fuerza de tu interior para recuperar tu vitalidad perdida.</dd>
+<dt>Entereza enana</dt>
+<dd>Extraes fuerza de tu interior para recuperar tu vitalidad perdida</dd>
 </dl>
 
 ### Diarios

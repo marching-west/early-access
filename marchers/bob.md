@@ -42,34 +42,34 @@ El silencioso y escurridizo Bob se desplaza imparable, como un reguero de pólvo
 
 ### Picaro
 
-> "Pareces  sorprendido  de verme.  Si hubieses  prestado atención,  todavía  podrías  seguir vivo". 
+> "Pareces sorprendido de verme. Si hubieses prestado atención, todavía podrías seguir vivo". 
 
-Te lanzas velozmente  para atacar, causas grandes daños, y tras ello te retiras aun lugar seguro. Obtienes los mejores resultados cuando trabajas con un defensor para flanquear enemigos. 
+Te lanzas velozmente  para atacar, causas grandes daños, y tras ello te retiras a un lugar seguro. Obtienes los mejores resultados cuando trabajas con un defensor para flanquear enemigos. 
 
 ## Poderes
 
 ### A voluntad
 <dl>
-<dt>Floreo artero</dt>
-<dd>Un distrayente floreo hace que el enemigo olvide la cuchilla que amenaza su garganta. </dd>
-<dt>Golpe acrobático</dt>
+<dt>Floreo Artero</dt>
+<dd>Un distrayente floreo hace que el enemigo olvide la cuchilla que amenaza su garganta</dd>
+<dt>Golpe Acrobático</dt>
 <dd>Saltas y realizas piruetas mientras atacas, confundiendo a tu enemigo</dd>
 </dl>
 
 ### De encuentro
 <dl>
-<dt>Maniobra del zorro</dt>
-<dd>Una rápida puñalada es todo lo que Bob necesita para distraer a su enemigo y reposicionarse.</dd>
+<dt>Maniobra del Zorro</dt>
+<dd>Una rápida puñalada es todo lo que Bob necesita para distraer a su enemigo y reposicionarse</dd>
 <dt>¡Ale hop!</dt>
-<dd>Tras ser derribado, Bob rueda ágilmente y se reincorpora de inmediato.</dd>
-<dt>Señuelo y cambio</dt>
-<dd>Golpeas y te mueves, haciendo que tu enemigo se tambalee y cambies posiciones con él.</dd>
+<dd>Tras ser derribado, Bob rueda ágilmente y se reincorpora de inmediato</dd>
+<dt>Señuelo y Cambio</dt>
+<dd>Golpeas y te mueves, haciendo que tu enemigo se tambalee y cambies posiciones con él</dd>
 </dl>
 
 ### Diarios
 <dl>
-<dt>Blanco fácil</dt>
-<dd>Asestas un golpe asombroso a tu enemigo, preparándolo para futuros ataques.</dd>
+<dt>Blanco Fácil</dt>
+<dd>Asestas un golpe asombroso a tu enemigo, preparándolo para futuros ataques</dd>
 </dl>
 
 * * *
